@@ -19,7 +19,7 @@
       "school_name": "XYZ university"
     }
   ],
-  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_demo",
+  "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26",
   "highlighted_projects": [
     {
       "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
@@ -34,8 +34,8 @@
   ],
   "jarvis_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
-      "git_url": "/linux_sql",
+      "description": "Built a MVP that helps the LCA team meet their business needs, implemented using psql, bash and linux cli.",
+      "git_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26.git",
       "name": "Cluster Monitor"
     },
     {
@@ -112,26 +112,27 @@
   ],
   "skills": {
     "competent": [
-      "Donec",
-      "fermentum",
-      "Donec",
-      "fermentum",
-      "Donec"
+      "React",
+      "Express",
+      "MongoDB",
+      "Node.js",
+      "HTML/CSS"
     ],
     "familiar": [
-      "Donec",
-      "fermentum",
-      "fermentum",
-      "fermentum",
-      "fermentum"
+      "Angular",
+      "C",
+      "C#",
+      "MySQL",
+      "MATLAB"
     ],
     "proficient": [
       "Java",
       "Linux/Bash",
       "RDBMS/SQL",
       "Agile/Scrum",
-      "Git"
+      "Git",
+      "Python"
     ]
   },
-  "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit."
+  "summary": "I am a recent graduate from York University with a degree in Applied Mathematics, with a vast set of quantitiative and tehcnical skills, I am excited to be a part of the software industry as it is the forefront of innovation and provides a great challange to young graduates like me."
 }
