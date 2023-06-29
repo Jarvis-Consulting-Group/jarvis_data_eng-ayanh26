@@ -1,0 +1,122 @@
+# Preferred name (Characters only)
+name: "Ayan Hussain"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: I am a recent graduate from York University with a degree in Applied Mathematics, with a vast set of quantitiative and tehcnical skills, I am excited to be a part of the software industry as it is the forefront of innovation and provides a great challange to young graduates like me.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+    - Python
+  # At least 5 skills
+  competent:
+    - React
+    - Express
+    - MongoDB
+    - Node.js
+    - HTML/CSS
+  # At least 5 skills
+  familiar:
+    - Angular
+    - C
+    - C#
+    - MySQL
+    - MATLAB
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26.git"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Built a MVP that helps the LCA team meet their business needs, implemented using psql, bash and linux cli. The LCA needed to understand if their system specifications were good enough, had enough storage and were performing properly, or they would need to invest more. In order to do this, the LCA team would need all data from the system, this is where this project will help."
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      - "Twitter App:  Not started"
+      - "JDBC App: Not Started"
+      - "Grep App: Not Started"
+  - name: "Springboot App"
+    git_url: "/springboot"
+    description: ""
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+  - name: "Spark"
+    git_url: "/spark"
+    description: ""
+  - name: "Cloud/DevOps"
+    git_url: "/cloud_devops"
+    description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Placity"
+    #URL is optional
+    git_url: ""
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Built a CRUD application to post and share photos similar to instagram. Used modern functional based React components to create dynamic front-end. Used Express.js to handle HTTP requests
+  - name: "Binomial Option Pricing"
+    git_url:
+    description: Built and optimized a model to price financial options for two correlated assets.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Fata Engineer"
+    company: "Jarvis"
+    duration: "2023-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Working on industry level projects in order to learn and grow as a data engineer. Building skills like SQL, java, docker and other indsutry standard technologies."
+  - title: "Tutor"
+    company: "Emirates International School"
+    duration: "2017"
+    description: "Tutored 30+ students how to code in basic java, taught them baisc computer science fundemental skills."
+
+#List of edcuation
+education: 
+  - school_name: "York university"
+    duration: "2018-2022"
+    degree: "Bachelor of Science"
+    department: "Applied Mathematics"
+    # optional
+    awards_achievements:
+
+  - school_name: "Emirates International School"
+    duration: "2016-2018"
+    degree: "IB Diploma"
+    department: "High School"
+    awards_achievements: 
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Udacity Machine Learning (2019)"
+  - title: "Awards"
+    bullets:
+      - "Winner"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Basketball player"
+      - "Competitive gaming"
+      - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
