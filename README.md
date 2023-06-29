@@ -19,9 +19,9 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 **Core Java Apps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26/tree/master/core_java)]:
       
-  - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
+  - Twitter App:  Not started
+  - JDBC App: Not Started
+  - Grep App: Not Started
 
 **Springboot App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26/tree/master/springboot)]: Not Started
 
@@ -35,22 +35,22 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Placity**: Built a CRUD application to post and share photos similar to instagram. Used modern functional based React components to create dynamic front-end. Used Express.js to handle HTTP requests
 
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Binomial Option Pricing**: Built and optimized a model to price financial options for two correlated assets.
 
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Fata Engineer, Jarvis (2023-present)**: Working on industry level projects in order to learn and grow as a data engineer. Building skills like SQL, java, docker and other indsutry standard technologies.
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Tutor, Emirates International School (2017)**: Tutored 30+ students how to code in basic java, taught them baisc computer science fundemental skills.
 
 
 ## Education
 **York university (2018-2022)**, Bachelor of Science, Applied Mathematics
 
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**Emirates International School (2016-2018)**, IB Diploma, High School
 
 
 ## Miscellaneous

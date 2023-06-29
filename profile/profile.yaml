@@ -43,9 +43,9 @@ jarvis_projects:
   - name: "Core Java Apps"
     git_url: "/core_java"
     description:
-      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "Twitter App:  Not started"
+      - "JDBC App: Not Started"
+      - "Grep App: Not Started"
   - name: "Springboot App"
     git_url: "/springboot"
     description: ""
@@ -66,29 +66,29 @@ jarvis_projects:
 # Feel free to add more projects
 highlighted_projects:
     #project name
-  - name: "Web app for resturant"
+  - name: "Placity"
     #URL is optional
-    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    git_url: ""
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-  - name: "Machine Learning"
+    description: Built a CRUD application to post and share photos similar to instagram. Used modern functional based React components to create dynamic front-end. Used Express.js to handle HTTP requests
+  - name: "Binomial Option Pricing"
     git_url:
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    description: Built and optimized a model to price financial options for two correlated assets.
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
-  - title: "Software Developer"
+  - title: "Fata Engineer"
     company: "Jarvis"
-    duration: "2020-present"
+    duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+    description: "Working on industry level projects in order to learn and grow as a data engineer. Building skills like SQL, java, docker and other indsutry standard technologies."
   - title: "Tutor"
-    company: "XYZ Company"
-    duration: "2019"
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+    company: "Emirates International School"
+    duration: "2017"
+    description: "Tutored 30+ students how to code in basic java, taught them baisc computer science fundemental skills."
 
 #List of edcuation
 education: 
@@ -99,10 +99,10 @@ education:
     # optional
     awards_achievements:
 
-  - school_name: "XYZ university"
+  - school_name: "Emirates International School"
     duration: "2016-2018"
-    degree: "Master of Engineering"
-    department: "Electrical and Computer Engineering"
+    degree: "IB Diploma"
+    department: "High School"
     awards_achievements: 
 
 #Optional section
