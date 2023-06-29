@@ -9,23 +9,23 @@
     },
     {
       "awards_achievements": null,
-      "degree": "Master of Engineering",
-      "department": "Electrical and Computer Engineering",
+      "degree": "IB Diploma",
+      "department": "High School",
       "duration": "2016-2018",
-      "school_name": "XYZ university"
+      "school_name": "Emirates International School"
     }
   ],
   "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26",
   "highlighted_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
-      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
-      "name": "Web app for resturant"
+      "description": "Built a CRUD application to post and share photos similar to instagram. Used modern functional based React components to create dynamic front-end. Used Express.js to handle HTTP requests",
+      "git_url": "",
+      "name": "Placity"
     },
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "Built and optimized a model to price financial options for two correlated assets.",
       "git_url": null,
-      "name": "Machine Learning"
+      "name": "Binomial Option Pricing"
     }
   ],
   "jarvis_projects": [
@@ -36,9 +36,9 @@
     },
     {
       "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+        "Twitter App:  Not started",
+        "JDBC App: Not Started",
+        "Grep App: Not Started"
       ],
       "git_url": "/core_java",
       "name": "Core Java Apps"
@@ -95,14 +95,14 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2020-present",
-      "title": "Software Developer"
+      "description": "Working on industry level projects in order to learn and grow as a data engineer. Building skills like SQL, java, docker and other indsutry standard technologies.",
+      "duration": "2023-present",
+      "title": "Fata Engineer"
     },
     {
-      "company": "XYZ Company",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2019",
+      "company": "Emirates International School",
+      "description": "Tutored 30+ students how to code in basic java, taught them baisc computer science fundemental skills.",
+      "duration": "2017",
       "title": "Tutor"
     }
   ],
