@@ -15,7 +15,7 @@ I am a recent graduate from York University with a degree in Applied Mathematics
 Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26/tree/masterhttps://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26.git)]: Built a MVP that helps the LCA team meet their business needs, implemented using psql, bash and linux cli.
+**Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26/tree/masterhttps://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26.git)]: Built a MVP that helps the LCA team meet their business needs, implemented using psql, bash and linux cli. The LCA needed to understand if their system specifications were good enough, had enough storage and were performing properly, or they would need to invest more. In order to do this, the LCA team would need all data from the system, this is where this project will help.
 
 **Core Java Apps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26/tree/master/core_java)]:
       
@@ -48,10 +48,7 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
+**York university (2018-2022)**, Bachelor of Science, Applied Mathematics
 
 **XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
 
