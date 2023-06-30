@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: I am a recent graduate from York University with a degree in Applied Mathematics, with a vast set of quantitiative and tehcnical skills, I am excited to be a part of the software industry as it is the forefront of innovation and provides a great challange to young graduates like me.
+summary: I am a recent graduate from York University with a degree in Applied Mathematics, with a vast set of quantitative and technical skills, I am excited to be a part of the software industry as it is at the forefront of innovation and provides a great challenge to new developers. I have built my experience with a combination of internship experience, projects, and school coursework. My technical skillset spans areas such as Frontend, Backend and Data Analytics. I am constantly looking for every opportunity to learn and grow in order to be the best developer I can.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -18,12 +18,14 @@ skills:
     - Agile/Scrum
     - Git
     - Python
+    - Docker
   # At least 5 skills
   competent:
     - React
     - Express
     - MongoDB
     - Node.js
+    - Javascript
     - HTML/CSS
   # At least 5 skills
   familiar:
@@ -39,28 +41,28 @@ jarvis_projects:
     git_url: "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-ayanh26.git"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Built a MVP that helps the LCA team meet their business needs, implemented using psql, bash and linux cli. The LCA needed to understand if their system specifications were good enough, had enough storage and were performing properly, or they would need to invest more. In order to do this, the LCA team would need all data from the system, this is where this project will help."
-  - name: "Core Java Apps"
-    git_url: "/core_java"
-    description:
-      - "Twitter App:  Not started"
-      - "JDBC App: Not Started"
-      - "Grep App: Not Started"
-  - name: "Springboot App"
-    git_url: "/springboot"
-    description: ""
-  - name: "Python Data Analytics"
-    git_url: "/python_data_anlytics"
-    description: ""
-  - name: "Hadoop"
-    git_url: "/hadoop"
-    description: ""
-  - name: "Spark"
-    git_url: "/spark"
-    description: ""
-  - name: "Cloud/DevOps"
-    git_url: "/cloud_devops"
-    description: ""
+    description: "Built a MVP that helps the LCA team meet their business needs, implemented using PostgreSQL, Bash, and Linux CLI. The LCA needed to understand if their system specifications were good enough, had enough storage, and were performing properly, or if they would need to invest more. In order to do this, the LCA team would need all data from the system, this is where this project will help. The project is built by creating a PSQL instance, it uses Linux CLI to scrape data system info and usage data. The data is then stored in a PSQL database that contains two tables, host_info, and host_usage, these tables are created to ensure that data is stored in the correct manner by using validators. The whole Bash script is then automated using crontab in order to collect data every minute. "
+  #- name: "Core Java Apps"
+  #  git_url: "/core_java"
+  #  description:
+  #    - "Twitter App:  Not started"
+  #    - "JDBC App: Not Started"
+  #    - "Grep App: Not Started"
+  #- name: "Springboot App"
+  #  git_url: "/springboot"
+  #  description: ""
+  #- name: "Python Data Analytics"
+  #  git_url: "/python_data_anlytics"
+  #  description: ""
+  #- name: "Hadoop"
+  #  git_url: "/hadoop"
+  #  description: ""
+  #- name: "Spark"
+  #  git_url: "/spark"
+  #  description: ""
+  #- name: "Cloud/DevOps"
+  #  git_url: "/cloud_devops"
+  #  description: ""
 
 # List of personal or academic projects
 # Feel free to add more projects
@@ -70,10 +72,10 @@ highlighted_projects:
     #URL is optional
     git_url: ""
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Built a CRUD application to post and share photos similar to instagram. Used modern functional based React components to create dynamic front-end. Used Express.js to handle HTTP requests
+    description: Built a CRUD application to post and share photos similar to Instagram. Used modern functional-based React components to create a dynamic front end. Used Express.js to handle HTTP requests for the CRUD features. The application can allow users to upload and delete posts, it also allows users to post comments on other users posts. The application is built with a user-friendly GUI created with Bootstrap and CSS. The data is stored in a NoSQL MongoDB database which allows flexibility with JSON data.
   - name: "Binomial Option Pricing"
     git_url:
-    description: Built and optimized a model to price financial options for two correlated assets.
+    description: Built a model which prices financial options for two correlated assets. The model is built using Python, Numpy, and Pandas for integrating complex financial formulas and models. It runs simulations for different scenarios where variables such as interest rates, and volatility are being changed in order to build an optimal model. The model is then tested using historic data from the Yahoo Finance API.
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
@@ -84,11 +86,11 @@ professional_experience:
     company: "Jarvis"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Working on industry level projects in order to learn and grow as a data engineer. Building skills like SQL, java, docker and other indsutry standard technologies."
+    description: "Working on Technical Projects which span areas ranging from Data Engineering to Backend Development. Built complex applications using industry-standard technologies such as Java, SQL, Bash, and Python. Worked within a development team that follows the Agile/Scrum framework in order to get tasks done in an optimal timeframe. Built projects within two-week sprints, and ensured quality coding practices."
   - title: "Tutor"
     company: "Emirates International School"
     duration: "2017"
-    description: "Tutored 30+ students how to code in basic java, taught them baisc computer science fundemental skills."
+    description: "Tutored 30+ students how to code in basic Java, and taught them basic computer science fundamental skills. Introduced them to concepts like Loops, If statements, and Object Oriented Programing. Tested students using Weekly quizes and assignments that allowed them to retain information."
 
 #List of edcuation
 education: 
@@ -111,12 +113,15 @@ others:
   - title: "Certificates"
     #list of items
     bullets:
-      - "Udacity Machine Learning (2019)"
-  - title: "Awards"
-    bullets:
-      - "Winner"
+      - "Udemy Data Science Masterclass (2019)"
+      - "Udemy MERN Stack Course (2020)"
+      - "Udemy Python Masterclass (2017)"
+      - "Django and Web Development with Python (2019)"
+  #- title: "Awards"
+  #  bullets:
+  #    - "Winner"
   - title: "Activities/Hobbies"
     bullets:
-      - "Basketball player"
+      - "Football player"
       - "Competitive gaming"
-      - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+      - "Video Editing"
